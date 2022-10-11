@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.3)  11 OCT 2022 10:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.3)  11 OCT 2022 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -136,19 +136,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--59
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 61--152
+Overfull \hbox (12.0pt too wide) in paragraph at lines 61--156
  [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 154--233
+Overfull \hbox (12.0pt too wide) in paragraph at lines 158--237
  [] 
  []
 
 [1
 
 {/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 235--272
+Overfull \hbox (12.0pt too wide) in paragraph at lines 239--276
  [] 
  []
 
@@ -156,7 +156,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 235--272
 Here is how much of TeX's memory you used:
  1071 strings out of 478268
  18393 string characters out of 5846347
- 345519 words of memory out of 5000000
+ 346519 words of memory out of 5000000
  19331 multiletter control sequences out of 15000+600000
  473204 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -166,7 +166,7 @@ blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/publi
 c/amsfonts/cm/cmr7.pfb>
-Output written on jessica_fortier.pdf (2 pages, 75068 bytes).
+Output written on jessica_fortier.pdf (2 pages, 75162 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  18 compressed objects within 1 object stream

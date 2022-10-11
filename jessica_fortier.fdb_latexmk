@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1665512584 "jessica_fortier.tex" "jessica_fortier.pdf" "jessica_fortier" 1665512585
+["pdflatex"] 1665514144 "jessica_fortier.tex" "jessica_fortier.pdf" "jessica_fortier" 1665514144
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmcsc10.tfm" 1136768653 1300 63a6111ee6274895728663cf4b4e7e81 ""
@@ -29,8 +29,8 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1664840182 2826435 53c416e7a24c744186e24b6c8e996f54 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "jessica_fortier.aux" 1665512585 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "jessica_fortier.tex" 1665512584 14664 57bde677f666de26c6c2cd7fc3748b87 ""
+  "jessica_fortier.aux" 1665514144 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "jessica_fortier.tex" 1665514143 14666 6134b1cbb0a3decd1a8cb044f5ff0ad6 ""
   (generated)
   "jessica_fortier.aux"
   "jessica_fortier.log"

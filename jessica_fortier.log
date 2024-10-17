@@ -1,15 +1,18 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.3)  17 OCT 2022 08:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  17 OCT 2024 15:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **jessica_fortier.tex
 (./jessica_fortier.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-02-24>
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
-(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/base/articl
+e.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/base/size10
+.clo
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,46 +22,51 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/preprint/fullpage.sty
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/preprint/fu
+llpage.sty
 Package: fullpage 1999/02/23 1.1 (PWD)
-\FP@margin=\skip49
+\FP@margin=\skip50
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/geometry/geometry.sty
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/geometry/ge
+ometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
-Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/graphics/ke
+yval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/ifvtex.sty
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/generic/iftex/ifv
+tex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 
-(/usr/local/texlive/2022/texmf-dist/tex/generic/iftex/iftex.sty
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/generic/iftex/ift
+ex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
 \Gm@cntv=\count194
 \c@Gm@tempcnt=\count195
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+(/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/l3backend/l
+3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count196
-\l__pdf_internal_box=\box50
-)
-(./jessica_fortier.aux)
+\l__pdf_internal_box=\box51
+) (./jessica_fortier.aux)
 \openout1 = `jessica_fortier.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -121,46 +129,48 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 31.
 
-Overfull \hbox (26.99998pt too wide) in paragraph at lines 28--57
+Overfull \hbox (26.99998pt too wide) in paragraph at lines 28--59
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 28--57
+Underfull \hbox (badness 10000) in paragraph at lines 28--59
 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 59--154
+Overfull \hbox (12.0pt too wide) in paragraph at lines 61--144
  [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 156--235
+Overfull \hbox (12.0pt too wide) in paragraph at lines 146--254
  [] 
  []
 
 [1
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 237--274
+{/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updm
+ap/pdftex.map}]
+Overfull \hbox (12.0pt too wide) in paragraph at lines 256--291
  [] 
  []
 
 [2] (./jessica_fortier.aux) ) 
 Here is how much of TeX's memory you used:
- 1071 strings out of 478268
- 18393 string characters out of 5846347
- 345519 words of memory out of 5000000
- 19331 multiletter control sequences out of 15000+600000
- 473204 words of font info for 41 fonts, out of 8000000 for 9000
+ 1096 strings out of 476025
+ 19610 string characters out of 5779036
+ 1884388 words of memory out of 5000000
+ 21600 multiletter control sequences out of 15000+600000
+ 516232 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,26n,62p,211b,316s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmcsc10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb>
-Output written on jessica_fortier.pdf (2 pages, 66819 bytes).
+ 57i,26n,62p,215b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/homebrew/Cellar/texlive/20230313_3/share/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive
+/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/h
+omebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr10.pfb>
+Output written on jessica_fortier.pdf (2 pages, 66185 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

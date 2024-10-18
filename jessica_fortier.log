@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  17 OCT 2024 15:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  18 OCT 2024 07:45
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,12 +139,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--59
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 61--144
+Overfull \hbox (12.0pt too wide) in paragraph at lines 61--141
  [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 146--254
+Overfull \hbox (12.0pt too wide) in paragraph at lines 143--251
  [] 
  []
 
@@ -152,7 +152,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 146--254
 
 {/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updm
 ap/pdftex.map}]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 256--291
+Overfull \hbox (12.0pt too wide) in paragraph at lines 253--288
  [] 
  []
 

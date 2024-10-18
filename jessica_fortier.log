@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  18 OCT 2024 07:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2024.2.23)  18 OCT 2024 08:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,12 +139,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 28--57
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 59--140
+Overfull \hbox (12.0pt too wide) in paragraph at lines 59--137
  [] 
  []
 
 
-Overfull \hbox (12.0pt too wide) in paragraph at lines 142--250
+Overfull \hbox (12.0pt too wide) in paragraph at lines 139--249
  [] 
  []
 
@@ -152,7 +152,7 @@ Overfull \hbox (12.0pt too wide) in paragraph at lines 142--250
 
 {/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updm
 ap/pdftex.map}]
-Overfull \hbox (12.0pt too wide) in paragraph at lines 252--287
+Overfull \hbox (12.0pt too wide) in paragraph at lines 251--286
  [] 
  []
 
@@ -170,7 +170,7 @@ mf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></opt/homebrew/Cellar/texlive
 /20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb></opt/h
 omebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmr10.pfb>
-Output written on jessica_fortier.pdf (2 pages, 66194 bytes).
+Output written on jessica_fortier.pdf (2 pages, 66435 bytes).
 PDF statistics:
  26 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream

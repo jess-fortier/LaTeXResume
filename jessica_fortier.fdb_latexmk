@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1729263131 "jessica_fortier.tex" "jessica_fortier.pdf" "jessica_fortier" 1729263132 0
+["pdflatex"] 1729264870 "jessica_fortier.tex" "jessica_fortier.pdf" "jessica_fortier" 1729264870 0
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/fontname/texfonts.map" 1678549815 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/map/pdftex/updmap/pdftex.map" 1678549815 4609045 74543da1ab9350ba886fce0af49a2cfd ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1678549815 1328 c834bbb027764024c09d3d2bf908b5f0 ""
@@ -27,8 +27,8 @@
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/tex/latex/preprint/fullpage.sty" 1678549815 2789 05b418f78b224ec872f5b11081138605 ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-dist/web2c/texmf.cnf" 1678549815 40748 4081c8bc921e56c865f975bd762e388c ""
   "/opt/homebrew/Cellar/texlive/20230313_3/share/texmf-var/web2c/pdftex/pdflatex.fmt" 1678549815 7884066 316d49c812b0a56e8252ba953fd7537d ""
-  "jessica_fortier.aux" 1729263132 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
-  "jessica_fortier.tex" 1729263131 17206 856b372ed6501371afa0df29710b8a01 ""
+  "jessica_fortier.aux" 1729264870 32 044b7f8fc9779af7531264e0c5c84b6d "pdflatex"
+  "jessica_fortier.tex" 1729264869 17201 d52ba11969e62b22ba11c823d9fdb0e6 ""
   (generated)
   "jessica_fortier.aux"
   "jessica_fortier.log"
